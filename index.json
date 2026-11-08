@@ -1,0 +1,11 @@
+{
+  "org": "EleutherAI",
+  "repo": "polyglot",
+  "versions": [
+    {
+      "commit": "59238131f37063d92540547f5b46dc1a7dbce7b9",
+      "tag": "",
+      "parsed_at": "2026-11-08T06:35:30.696539+00:00"
+    }
+  ]
+}
