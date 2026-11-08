@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/EleutherAI/polyglot/commit/59238131f37063d92540547f5b46dc1a7dbce7b9",
       "git:hexsha": "59238131f37063d92540547f5b46dc1a7dbce7b9",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
